@@ -112,7 +112,7 @@ Interested in contributing? Here’s how to get started.
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/green-year.git
+    git clone https://github.com/clare-codex/green-year.git
     cd green-year
     ```
 
