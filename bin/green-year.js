@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 // bin/green-year.js
-
+// This is entry
 import yargs from 'yargs';
 import { hideBin } from 'yargs/helpers';
 import chalk from 'chalk';
